@@ -1,7 +1,7 @@
 #property strict
 #property version   "1.00"
-#property description "EA MT5: HistGradientBoosting clasificator ONNX, rulat in Strategy Tester"
-#property description "Cu trend filter + ATR volatility filter + kill switch optional"
+#property description "EA MT5: HistGradientBoosting classifier ONNX, run in Strategy Tester"
+#property description "With trend filter + ATR volatility filter + kill switch optional"
 
 #include <Trade/Trade.mqh>
 
